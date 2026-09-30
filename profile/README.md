@@ -1,19 +1,25 @@
-# Engrena Tecnologia 🚀
+<p align="center">
+  <img src="../assets/logo-engrena-tech.png"
+       alt="Engrena Tech"
+       width="280">
+</p>
+<h1 align="center">Engrena Tecnologia</h1>
 
-### Soluções inteligentes para acelerar resultados.
-
-A **Engrena Tecnologia** desenvolve soluções digitais modernas, modulares e escaláveis,
-criadas para conectar pessoas, processos e negócios.
+<p align="center">
+  <strong>Soluções inteligentes para acelerar resultados.</strong>
+</p>
 
 ## 💜 Sobre a Engrena
 
-Transformamos necessidades de negócio em soluções tecnológicas inteligentes.
+A **Engrena Tech** desenvolve soluções digitais modernas, modulares e escaláveis,
+transformando necessidades de negócio em tecnologia.
 
-Nossa proposta é desenvolver sistemas que possam crescer e evoluir de forma
-modular, permitindo a aplicação da tecnologia em diferentes segmentos e
-necessidades.
+Criamos sistemas preparados para evoluir junto com empresas e projetos,
+atendendo diferentes segmentos por meio de soluções flexíveis e integráveis.
 
-## 💻 O que desenvolvemos
+## 🚀 Soluções
+
+Desenvolvemos tecnologia para diferentes necessidades de negócio:
 
 - Sistemas web
 - Plataformas SaaS
@@ -22,21 +28,42 @@ necessidades.
 - Automação de processos
 - Sistemas de gestão
 - Soluções para controle e acesso
-- Soluções digitais para diferentes segmentos
+- Aplicações para diferentes segmentos
 
 ## 🧩 Tecnologia modular
 
-Criamos soluções estruturadas em módulos independentes e integráveis,
-permitindo que empresas utilizem apenas as funcionalidades necessárias e
-ampliem seus sistemas conforme o negócio evolui.
+Nossas soluções são projetadas para permitir evolução contínua.
 
-## 🚀 Nossa proposta
+A arquitetura modular possibilita que funcionalidades sejam adicionadas,
+integradas ou ampliadas conforme as necessidades de cada negócio.
 
-Conectar tecnologia, processos e pessoas para transformar ideias em soluções
-digitais eficientes e escaláveis.
+Assim, a tecnologia acompanha o crescimento da operação sem limitar
+a empresa a uma única solução.
 
----
+## 💻 Tecnologias
 
-### Engrena Tech
+<p align="center">
 
-**Soluções inteligentes para acelerar resultados.**
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+
+</p>
+
+## ⚙️ Nossa proposta
+
+Conectar **tecnologia, processos e pessoas** para transformar ideias
+em soluções digitais eficientes, inteligentes e escaláveis.
+
+> **Engrena Tecnologia — Soluções inteligentes para acelerar resultados.**
+
+## 📫 Contato
+
+Quer conhecer nossas soluções ou conversar sobre um projeto?
+
+**Engrena Tecnologia**
+
+🌐 Site: Em breve  
+📧 E-mail: engrenatech.et@gmail.com
